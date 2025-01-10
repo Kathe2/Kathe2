@@ -1,6 +1,6 @@
 <h1>Olá, eu sou Kathelyn Euzebio! 👋</h1>
-Me chamo Kathelyn, tenho 23 anos e sou do Rio de Janeiro, Brasil, 
-mais especificamente da Baixada Fluminense. Estou atualmente no 3º semestre do curso de 
+Me chamo Kathelyn, tenho 24 anos e sou do Rio de Janeiro, Brasil, 
+mais especificamente da Baixada Fluminense. Estou atualmente no 4º semestre do curso de 
 Engenharia da Computação (pela Uninter), apaixonada pela tecnologia e dedicada a expandir meu conhecimento em
 desenvolvimento, tanto front-end quanto back-end. 
 Como iniciante na área de tecnologia, estou animada para aprender e crescer nesse campo fascinante e 
