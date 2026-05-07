@@ -112,18 +112,6 @@ me.say_hi()
 
 ---
 
-## `> featured_projects[]`
-
-<div align="center">
-
-[![Calculator-Python-Project](https://github-readme-stats.vercel.app/api/pin/?username=Kathe2&repo=Calculator-Python-Project&theme=dark&hide_border=true&bg_color=0a0c0f&title_color=00e5b0&text_color=e8edf5&icon_color=0099ff)](https://github.com/Kathe2/Calculator-Python-Project)
-[![Rock Paper Scissors](https://github-readme-stats.vercel.app/api/pin/?username=Kathe2&repo=Rock_Paper_Scissors&theme=dark&hide_border=true&bg_color=0a0c0f&title_color=00e5b0&text_color=e8edf5&icon_color=0099ff)](https://github.com/Kathe2/Rock-Paper-Scissors)
-[![Tindog](https://github-readme-stats.vercel.app/api/pin/?username=Kathe2&repo=Tindog&theme=dark&hide_border=true&bg_color=0a0c0f&title_color=00e5b0&text_color=e8edf5&icon_color=0099ff)](https://github.com/Kathe2/TinDog-Project)
-[![ChatGPT](https://github-readme-stats.vercel.app/api/pin/?username=Kathe2&repo=ChatGPT&theme=dark&hide_border=true&bg_color=0a0c0f&title_color=00e5b0&text_color=e8edf5&icon_color=0099ff)](https://github.com/Kathe2/ChatGPT)
-
-</div>
-
----
 
 ## `> activity_graph`
 
