@@ -107,7 +107,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kathe2&theme=dark&hide_border=true&background=0a0c0f&ring=00e5b0&fire=0099ff&currStreakLabel=00e5b0&sideLabels=6b7a90&dates=6b7a90" />
+ <img src="https://streak-stats.demolab.com/?user=Kathe2&theme=dark&hide_border=true&background=0a0c0f&ring=00e5b0&fire=0099ff&currStreakLabel=00e5b0&sideLabels=6b7a90&dates=6b7a90" />
 </div>
 
 ---
