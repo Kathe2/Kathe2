@@ -43,7 +43,7 @@ class KathelynEuzebio:
         self.focus      = ["Software Development", "Data Science"]
         self.next_goal  = "Information Security"
         self.status     = "🟢 Open to internships"
-        self.portfolio  = "https://kathelyn.dev"  # 👈 atualize com seu link
+        # self.portfolio  = "https://kathelyn.dev"
 
     def say_hi(self):
         print("Hey! I build stuff with data and code.")
